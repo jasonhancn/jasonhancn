@@ -22,7 +22,7 @@
   - Bash (Remote, Using Xshell)
 - Font/Color Scheme:
   - 等距更纱黑体 SC
-  - Darcula （IntellJ）
+  - Darcula（IntellJ）
   - Tomorrow Bright（VSCode）
 - CI/CD:
   - Github Actions
