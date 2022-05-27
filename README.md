@@ -9,7 +9,7 @@
 ### Development Environment
 
 - OS:
-  - Microsoft Windows 10 Pro
+  - Microsoft Windows 11 Pro
   - Ubuntu 18.04 (WSL2)
   - Ubuntu Server 20.04
   - CentOS 7
@@ -18,8 +18,7 @@
   - Visual Studio Code (Python, Go, Frontend, Scripts...)
   - Notepad++ (Only for view file)
 - Shell/Terminal:
-  - Zsh with *Oh My Zsh* （Local, Using WSL2 in Windows Terminal）
-  - Bash (Remote, Using Xshell)
+  - Bash
 - Font/Color Scheme:
   - 等距更纱黑体 SC
   - Darcula（IntellJ）
